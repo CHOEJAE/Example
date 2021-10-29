@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+sitemap: https://sikwonplant.netlify.app/sitemap.xml
